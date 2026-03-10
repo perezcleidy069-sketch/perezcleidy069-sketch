@@ -1,8 +1,8 @@
-### Que esta me esta pasando, pensé que sabía 🤣
+### Casi no sobrevivo 🤣
 <img width="518" height="555" alt="image" src="https://github.com/user-attachments/assets/299897e6-1572-431f-9ace-e32ff2faac30" /> 
 
 ## Hi, Soy Cleidy Pérez 👋
-<div style ="background-color:#FF689D; padding: 15px;border-radius: 10px; color:while" >
+<div style ="background-color:#FF689D; padding: 15px;border-radius: 10px; color:white" >
 <h2> Bienvenido a mi espacio </h2>
 <p> Esto es mi breve descripción sobre mi.</p>
 </div>
