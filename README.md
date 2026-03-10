@@ -1,5 +1,7 @@
 ## Hi, Soy Cleidy Pérez 👋
-<div styly ="background-color:#FF689D; padding: 10px;border-radius: 5px;" ></div>
+<div styly ="background-color:#FF689D; padding: 10px;border-radius: 5px;" >
+  
+</div>
 
 <!--
 **perezcleidy069-sketch/perezcleidy069-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
