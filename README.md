@@ -5,7 +5,6 @@
 <p align= "center" style ="background-color:#FF689D; padding: 15px;border-radius: 10px; color:white" >
 <b> Bienvenido a mi espacio </b><br>
 <p> Esto es mi breve descripción sobre mi.</p>
-</p>
 
 ### Lo que me gusta hacer:
 
