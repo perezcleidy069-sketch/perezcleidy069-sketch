@@ -1,6 +1,5 @@
 <div style= "background-color: pink; padding:10px;" >
 
-
 ### Casi no sobrevivo 🤣
 <img width="518" height="555" alt="image" src="https://github.com/user-attachments/assets/299897e6-1572-431f-9ace-e32ff2faac30" /> 
 
