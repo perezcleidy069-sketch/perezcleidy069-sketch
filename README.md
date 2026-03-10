@@ -1,7 +1,7 @@
 
 <table>
 <tr>
-<td style="brackground-color:#FF689D; color:white; padding:15px">
+<td style="brackground-color:#FF689D; color:pink; padding:15px">
 
 ### Casi no sobrevivo 🤣
 <img width="518" height="555" alt="image" src="https://github.com/user-attachments/assets/299897e6-1572-431f-9ace-e32ff2faac30" /> 
