@@ -168,7 +168,6 @@
 ## Como trabajo
 
 ```txt
-Problema -> diagnostico -> arquitectura -> desarrollo -> despliegue -> seguridad -> mejora continua
 ```
 
 <table>
