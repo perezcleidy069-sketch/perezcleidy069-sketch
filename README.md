@@ -50,18 +50,16 @@
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,react,nodejs,html,css,tailwind,bootstrap,mysql,postgres,mongodb,supabase,git,github,docker,linux,cloudflare,figma,vscode&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,git,github,vscode&perline=7" alt="Tech stack" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Strapi-1f2937?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20ReactJS%20%7C%20TypeScript-1f2937?style=flat-square" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Mobile-Capacitor%20Apps-1f2937?style=flat-square" alt="Mobile" />
-  <img src="https://img.shields.io/badge/Data-MySQL%20%7C%20PostgreSQL%20%7C%20Oracle%20%7C%20SQL%20Server%20%7C%20MongoDB-1f2937?style=flat-square" alt="Databases" />
-  <img src="https://img.shields.io/badge/Cloud-Cloud%20Services%20%7C%20Deployments%20%7C%20DNS%20%7C%20Networks-1f2937?style=flat-square" alt="Cloud" />
-  <img src="https://img.shields.io/badge/Security-Cybersecurity%20%7C%20Hardening%20%7C%20Risk%20Review-1f2937?style=flat-square" alt="Security" />
+  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript-ff3399?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend%20%26%20Automation-n8n-ff3399?style=flat-square" alt="Automation" />
+  <img src="https://img.shields.io/badge/Databases-MySQL-ff3399?style=flat-square" alt="Databases" />
+  <img src="https://img.shields.io/badge/Tools-VS%20Code%20%7C%20Git%20%7C%20GitHub-ff3399?style=flat-square" alt="Tools" />
 </div>
 
 ---
