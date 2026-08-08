@@ -136,23 +136,20 @@
     </td>
   </tr>
 </table>
+
 ## Actividad en vivo
 
 <div align="center">
-  <!-- Racha de contribuciones (Streak) -->
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=perezcleidy069-sketch&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Gráfico de actividad semanal/mensual -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perezcleidy069-sketch&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution Graph" width="98%" />
 </div>
 
 ---
-
-## Tarjetas automaticas
 
 ## Tarjetas automáticas
 
