@@ -139,16 +139,15 @@
 ## Actividad en vivo
 
 <div align="center">
-  <img src="./assets/github-kpis.svg" alt="Andre Lopez GitHub KPIs" width="49%" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anndreloopez012&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <!-- Racha de contribuciones (Streak) -->
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=perezcleidy069-sketch&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anndreloopez012&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
-</div>
+<br />
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="98%" />
+  <!-- Gráfico de actividad semanal/mensual -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perezcleidy069-sketch&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution Graph" width="98%" />
 </div>
 
 ---
