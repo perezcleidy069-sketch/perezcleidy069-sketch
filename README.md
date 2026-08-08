@@ -102,16 +102,16 @@
 
 ---
 
-## Asesorias y conferencias
+<h2>Trabajo colaborativo</h2>
 
-Trabajo con empresas y equipos que necesitan convertir problemas operativos en soluciones tecnicas claras.
+<p>Experiencia colaborando en proyectos grupales de desarrollo, aportando soluciones técnicas en el frontend, bases de datos y automatización.</p>
 
-- Asesoria en desarrollo de software y arquitectura de sistemas.
-- Evaluacion y mejora de aplicaciones existentes.
-- Asesoria sobre sistemas de terceros, integraciones y adopcion tecnologica.
-- Conferencias sobre soluciones digitales, automatizacion, cloud, seguridad y modernizacion empresarial.
-- Acompanamiento en venta, configuracion y puesta en marcha de cloud services.
-- Montaje de aplicaciones, infraestructura de red, dominios, DNS y ambientes productivos.
+<ul>
+  <li><strong>Colaboración en GitHub:</strong> Manejo de flujos de trabajo en equipo utilizando control de versiones con Git.</li>
+  <li><strong>Integración de componentes:</strong> Trabajo conjunto para conectar la interfaz (HTML/CSS/JS) con bases de datos MySQL.</li>
+  <li><strong>Resolución de errores en grupo:</strong> Análisis y depuración de código junto a compañeros para asegurar el funcionamiento del proyecto.</li>
+  <li><strong>Automatización con n8n:</strong> Propuesta e implementación de flujos para optimizar procesos en tareas grupales.</li>
+</ul>
 
 ---
 
