@@ -154,12 +154,14 @@
 
 ## Tarjetas automaticas
 
+## Tarjetas automáticas
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anndreloopez012&theme=tokyonight" alt="Profile details" width="98%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anndreloopez012&theme=tokyonight" alt="Repos per language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anndreloopez012&theme=tokyonight" alt="Most commit language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anndreloopez012&theme=tokyonight" alt="Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anndreloopez012&theme=tokyonight&utcOffset=-6" alt="Productive time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=perezcleidy069-sketch&theme=2077" alt="Profile details" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perezcleidy069-sketch&theme=2077" alt="Repos per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=perezcleidy069-sketch&theme=2077" alt="Most commit language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=perezcleidy069-sketch&theme=2077" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=perezcleidy069-sketch&utcOffset=-6&theme=2077" alt="Productive time" width="49%" />
 </div>
 
 ---
