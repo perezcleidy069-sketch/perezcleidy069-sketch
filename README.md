@@ -191,19 +191,17 @@
 
 ---
 
+
 ## Contacto
 
 <div align="center">
-  <a href="https://alcore-gt.com/">
-    <img src="https://img.shields.io/badge/Sitio%20Web-alcore--gt.com-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/anndreloopez012">
-    <img src="https://img.shields.io/badge/GitHub-anndreloopez012-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/perezcleidy069-sketch">
+    <img src="https://img.shields.io/badge/GitHub-perezcleidy069--sketch-FF3399?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <strong>Disponible para desarrollo de software, consultoria tecnica, cloud services, infraestructura, seguridad y soluciones digitales para empresas.</strong>
+  <strong>Disponible para proyectos de desarrollo web, automatización con n8n y trabajo en equipo.</strong>
 </div>
