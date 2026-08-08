@@ -66,33 +66,35 @@
 
 ## Areas de experiencia
 
+<h2>Áreas de enfoque</h2>
+
 <table>
   <tr>
-    <td width="33%">
-      <h3>Web & Apps</h3>
+    <td width="33%" valign="top">
+      <h3>Desarrollo Frontend</h3>
       <ul>
-        <li>PHP y arquitecturas backend</li>
-        <li>React, ReactJS y TypeScript</li>
-        <li>Node.js y APIs</li>
-        <li>Aplicaciones moviles con Capacitor</li>
+        <li>Maquetación estructurada con <strong>HTML5</strong></li>
+        <li>Estilos, diseño adaptativo y layouts con <strong>CSS3</strong></li>
+        <li>Lógica web e interacción con <strong>JavaScript </strong></li>
+        <li>Manipulación del DOM y diseño responsive</li>
       </ul>
     </td>
-    <td width="33%">
-      <h3>Datos & Plataformas</h3>
+    <td width="33%" valign="top">
+      <h3>Bases de Datos & n8n</h3>
       <ul>
-        <li>MySQL, PostgreSQL, Oracle y SQL Server</li>
-        <li>MongoDB y bases NoSQL</li>
-        <li>Supabase y Strapi</li>
-        <li>Big Data, consultas y modelado de informacion</li>
+        <li>Diseño de modelos relacionales con <strong>MySQL</strong></li>
+        <li>Consultas SQL (SELECT, INSERT, UPDATE, JOINs)</li>
+        <li>Automatización de flujos con <strong>n8n</strong></li>
+        <li>Conexión de servicios e integración de APIs</li>
       </ul>
     </td>
-    <td width="33%">
-      <h3>Infraestructura & Seguridad</h3>
+    <td width="33%" valign="top">
+      <h3>Herramientas & Metodologías</h3>
       <ul>
-        <li>Cloud services y montaje de aplicaciones</li>
-        <li>Servidores, DNS, redes y despliegues</li>
-        <li>Seguridad informatica</li>
-        <li>Revision de riesgos y buenas practicas</li>
+        <li>Entorno de desarrollo en <strong>VS Code</strong></li>
+        <li>Control de versiones con <strong>Git & GitHub</strong></li>
+        <li>Uso de buenas prácticas de código limpio</li>
+        <li>Constante aprendizaje y resolución de problemas</li>
       </ul>
     </td>
   </tr>
