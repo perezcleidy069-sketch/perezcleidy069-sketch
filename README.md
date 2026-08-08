@@ -117,19 +117,25 @@
 
 ## Proyectos educativos
 
+<h2>Proyectos destacados</h2>
+
 <table>
   <tr>
-    <td width="50%">
-      <h3>Campuslands Devs</h3>
-      <p>Creo repositorios educativos por niveles para que estudiantes aprendan logica, Git, JavaScript, TypeScript, PHP, SQL, MongoDB, Node.js, Express y buenas practicas de desarrollo con ejercicios progresivos.</p>
+    <td width="50%" valign="top">
+      <h3>🚗 Sistema de Control de Parqueadero</h3>
+      <p>Aplicación web interactiva desarrollada para gestionar el flujo vehicular de un parqueadero, calculando tiempos de estancia y cobros de forma automatizada.</p>
+      <p><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript </p>
     </td>
-    <td width="50%">
-      <h3>Mentoria practica</h3>
-      <p>Me enfoco en que los estudiantes aprendan haciendo: estructura real de proyectos, flujo profesional con ramas, Pull Requests, feedback y revision tecnica.</p>
+    <td width="50%" valign="top">
+      <h3>💡 Lógica y Desarrollo</h3>
+      <ul>
+        <li><strong>Lógica en JavaScript:</strong> Algoritmos para control de horarios y cálculo de tarifas.</li>
+        <li><strong>Interfaz web:</strong> Diseñada con HTML5 y CSS3 para una navegación rápida y funcional.</li>
+        <li><strong>Manipulación dinámica:</strong> Gestión del estado del parqueadero en tiempo real desde el navegador.</li>
+      </ul>
     </td>
   </tr>
 </table>
-
 ## Actividad en vivo
 
 <div align="center">
