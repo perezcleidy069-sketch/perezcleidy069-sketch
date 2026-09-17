@@ -196,6 +196,10 @@
   <a href="https://github.com/perezcleidy069-sketch">
     <img src="https://img.shields.io/badge/GitHub-perezcleidy069--sketch-FF3399?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+<a href="https://www.linkedin.com/in/cleidy-p%C3%A9rez-a107b226b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </div>
 
 <br />
