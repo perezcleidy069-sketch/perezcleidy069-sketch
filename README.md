@@ -26,21 +26,21 @@
   <tr>
     <td width="50%">
       <h3>Desarrollo Web Frontend</h3>
-      <p>Diseño y creo interfaces web limpias, interactivas y adaptables a cualquier dispositivo utilizando <strong>HTML5, CSS3 y JavaScript</strong>.</p>
+      <p align="justify">Diseño y creo interfaces web limpias, interactivas y adaptables a cualquier dispositivo utilizando <strong>HTML5, CSS3 y JavaScript</strong>.</p>
     </td>
     <td width="50%">
       <h3>Bases de Datos & SQL</h3>
-      <p>Diseño esquemas de bases de datos relacionales, creo tablas y optimizo consultas para gestionar información con <strong>MySQL</strong>.</p>
+      <p align="justify">Diseño esquemas de bases de datos relacionales, creo tablas y optimizo consultas para gestionar información con <strong>MySQL</strong>.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Automatización con n8n</h3>
-      <p>Conecto servicios, herramientas y APIs para automatizar tareas repetitivas y flujos de trabajo de forma eficiente mediante <strong>n8n</strong>.</p>
+      <p align="justify">Conecto servicios, herramientas y APIs para automatizar tareas repetitivas y flujos de trabajo de forma eficiente mediante <strong>n8n</strong>.</p>
     </td>
     <td width="50%">
       <h3>Lógica Backend Básica</h3>
-      <p>Integración de scripts en JavaScript para conectar el frontend con bases de datos y procesar datos del usuario.</p>
+      <p align="justify">Integración de scripts en JavaScript para conectar el frontend con bases de datos y procesar datos del usuario.</p>
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3>Desarrollo Frontend</h3>
-      <ul>
+      <ul align="justify">
         <li>Maquetación estructurada con <strong>HTML5</strong></li>
         <li>Estilos, diseño adaptativo y layouts con <strong>CSS3</strong></li>
         <li>Lógica web e interacción con <strong>JavaScript </strong></li>
@@ -81,7 +81,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>Bases de Datos & n8n</h3>
-      <ul>
+      <ul align="justify">
         <li>Diseño de modelos relacionales con <strong>MySQL</strong></li>
         <li>Consultas SQL (SELECT, INSERT, UPDATE, JOINs)</li>
         <li>Automatización de flujos con <strong>n8n</strong></li>
@@ -90,7 +90,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>Herramientas & Metodologías</h3>
-      <ul>
+      <ul align="justify">
         <li>Entorno de desarrollo en <strong>VS Code</strong></li>
         <li>Control de versiones con <strong>Git & GitHub</strong></li>
         <li>Uso de buenas prácticas de código limpio</li>
@@ -104,7 +104,7 @@
 
 <h2>Trabajo colaborativo</h2>
 
-<p>Experiencia colaborando en proyectos grupales de desarrollo, aportando soluciones técnicas en el frontend, bases de datos y automatización.</p>
+<p align="justify">Experiencia colaborando en proyectos grupales de desarrollo, aportando soluciones técnicas en el frontend, bases de datos y automatización.</p>
 
 <ul>
   <li><strong>Colaboración en GitHub:</strong> Manejo de flujos de trabajo en equipo utilizando control de versiones con Git.</li>
@@ -123,7 +123,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚗 Sistema de Control de Parqueadero</h3>
-      <p>Aplicación web interactiva desarrollada para gestionar el flujo vehicular de un parqueadero, calculando tiempos de estancia y cobros de forma automatizada.</p>
+      <p align="justify">Aplicación web interactiva desarrollada para gestionar el flujo vehicular de un parqueadero, calculando tiempos de estancia y cobros de forma automatizada.</p>
       <p><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript </p>
     </td>
     <td width="50%" valign="top">
@@ -171,19 +171,19 @@
 <table>
   <tr>
     <td>Arquitectura simple</td>
-    <td>Prefiero sistemas faciles de mantener, con estructura limpia y decisiones tecnicas justificadas.</td>
+    <td align="justify">Prefiero sistemas faciles de mantener, con estructura limpia y decisiones tecnicas justificadas.</td>
   </tr>
   <tr>
     <td>Entrega real</td>
-    <td>No solo construyo pantallas: conecto APIs, bases de datos, dominios, cloud, redes, seguridad, despliegues y automatizaciones.</td>
+    <td align="justify">No solo construyo pantallas: conecto APIs, bases de datos, dominios, cloud, redes, seguridad, despliegues y automatizaciones.</td>
   </tr>
   <tr>
     <td>Vision empresarial</td>
-    <td>Analizo tecnologia desde el impacto en ventas, operacion, costos, seguridad, continuidad y crecimiento.</td>
+    <td align="justify">Analizo tecnologia desde el impacto en ventas, operacion, costos, seguridad, continuidad y crecimiento.</td>
   </tr>
   <tr>
     <td>Mejora continua</td>
-    <td>Actualizo procesos, documento soluciones y convierto problemas repetidos en herramientas reutilizables.</td>
+    <td align="justify">Actualizo procesos, documento soluciones y convierto problemas repetidos en herramientas reutilizables.</td>
   </tr>
 </table>
 
